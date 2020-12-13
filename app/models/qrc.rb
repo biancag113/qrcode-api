@@ -1,0 +1,2 @@
+class Qrc < ApplicationRecord
+end
